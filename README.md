@@ -1,1 +1,1 @@
-# IMDB_EDA_Assignment
+# Exploratory Data Analysis
